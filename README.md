@@ -26,7 +26,7 @@ This is a **portfolio copy** of the original assignment, created for presentatio
 - CSS
 - JavaScript 
 
-## ✍What I Would Improve
+## What I Would Improve
 
 Since completing this project, I would like to:
 - Improve cart state handling using localStorage or sessionStorage
